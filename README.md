@@ -40,7 +40,6 @@ settings - Get your preferences
 ## Telegram bot config PROD
 
 * Bot name: @WatsonDemonstrationBot
-* Token: 201501639:AAGP2if01r_bN_YXUdtX_I9Bgq9p5MXGIo8
 
 
 ## How to setup dev environment
