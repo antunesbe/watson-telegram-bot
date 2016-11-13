@@ -1,0 +1,12 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: cognia-telegram-bot
+  host: cognia-telegram-bot
+  disk_quota: 256M
+  services:
+  - Speech To Text-bot
+  - Text to Speech-bot
+  - Language Translation-bot
